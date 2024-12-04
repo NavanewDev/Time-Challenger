@@ -7,6 +7,6 @@ git clone https://github.com/NavanewDev/Time-Challenger.git
 
 Installation guidelines
 
-cd Time-Challenger
-npm install
-npm run dev
+1. cd Time-Challenger
+2. npm install
+3. npm run dev
